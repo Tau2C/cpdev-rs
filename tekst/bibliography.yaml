@@ -1,0 +1,23 @@
+str:
+  type: Web
+  url: http://weii.portal.prz.edu.pl/pl/materialy-do-pobrania
+  date: 2015-01-05
+
+Jakubczyk1997:
+  type: Book
+  author: Jakubczyk T., Klette A.
+  title: Pomiary w akustyce. WNT, Warszawa 1997
+
+Barski2011:
+  type: Book
+  author: Barski S.
+  title: Modele transmitancji. Elektronika praktyczna, nr 7/2011, str. 15-18.
+
+dokum:
+  type: Book
+  title: Czujnik S200. Dokumentacja techniczno-ruchowa. Lumel, Zielona Góra, 2001.
+
+Pawluk2001:
+  type: Book
+  author: Pawluk K.
+  title: Jak pisać teksty techniczne poprawnie, Wiadomości Elektrotechniczne, Nr 12, 2001, str. 513-515.

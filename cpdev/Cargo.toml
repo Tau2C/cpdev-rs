@@ -1,0 +1,19 @@
+[package]
+name = "cpdev"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+enumset = { version = "1.1.10" }
+paste = "1.0.15"
+
+[features]
+default = ["big_endian"]
+# default = ["memcpy"]
+# default = ["memcpy","big_endian"]
+# default = ["byte_access"]
+# default = ["byte_access","big_endian"]
+
+memcpy = []
+big_endian = []
+byte_access = []
